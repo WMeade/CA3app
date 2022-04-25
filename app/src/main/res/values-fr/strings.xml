@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CA3app</string>
+    <string name="kills">Tue:</string>
+    <string name="deaths">Décès:</string>
+    <string name="assists">Aides:</string>
+    <string name="position">Position:</string>
+    <string name="maxkills">Max Tue:</string>
+    <string name="wins"> Gagne:</string>
+    <string name="losses">Pertes:</string>
+    <string name="highestKills">Plus haut Tue:</string>
+</resources>
